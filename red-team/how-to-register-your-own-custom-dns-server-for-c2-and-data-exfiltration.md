@@ -2,7 +2,7 @@
 
 ## TL;DR
 
-Skipping all DNS protocol, DNS tunneling and DNS data exfiltration. I've a custom built DNS server for a C2 and data exfiltration and I needed to add my nameservers to my domain provider.
+Skipping all DNS protocol, DNS tunneling and DNS data exfiltration. I've got a custom-built DNS server for a C2 and data exfiltration and I needed to add my nameservers to my domain provider.
 
 ### Step \#1 \| Setup your DNS Server
 
@@ -35,7 +35,7 @@ The best application for troubleshooting is `dnstracer` command which is availab
 $ dnstracer -c4o sub.domain.com
 ```
 
-Another helpful dig checks is
+Another helpful dig checks are
 
 ```text
 $ dig sub.domain.com +short
