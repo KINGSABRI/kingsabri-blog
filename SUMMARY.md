@@ -19,6 +19,7 @@
 * [Web Hacking](pentest/web-hacking/README.md)
   * [How to Disable Burp Suite Collaborator](pentest/web-hacking/how-to-disable-burp-suite-collaborator.md)
 * [Mobile Hacking](pentest/mobile-hacking/README.md)
+  * [How to Bypass SSL Certificate Pinning](pentest/mobile-hacking/how-to-bypass-ssl-certificate-pinning.md)
   * [Installing Burp's CA Certificate on Android](pentest/mobile-hacking/installing-burps-ca-certificate-on-android.md)
   * [Debug Android over WiFi \(without root\)](pentest/mobile-hacking/android-hacking-or-debug-android-over-wifi-without-root.md)
   * [Setup Global Proxy for All Apps in Android \(without root\) with Burp Suite](pentest/mobile-hacking/setup-global-proxy-for-all-apps-in-android-without-root-with-burp-suite.md)

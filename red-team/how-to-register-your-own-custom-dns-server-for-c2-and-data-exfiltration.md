@@ -1,7 +1,5 @@
 # How to Register Your Own Custom DNS Server for C2 and Data exfiltration
 
-## TL;DR
-
 Skipping all DNS protocol, DNS tunneling and DNS data exfiltration. I've got a custom-built DNS server for a C2 and data exfiltration and I needed to add my nameservers to my domain provider.
 
 ### Step \#1 \| Setup your DNS Server
