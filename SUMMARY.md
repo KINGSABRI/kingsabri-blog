@@ -5,6 +5,7 @@
 ## Red Teaming <a id="red-team"></a>
 
 * [Red Teaming Terms and Definitions](red-team/red-teaming-terms-and-definitions.md)
+* [How to Register Your Own Custom DNS Server for C2 and Data exfiltration](red-team/how-to-register-your-own-custom-dns-server-for-c2-and-data-exfiltration.md)
 * [How to compile, embed and use SharpSploit](red-team/how-to-compile-embed-and-use-sharpsploit.md)
 * [Post](red-team/post.md)
 * [Cobalt Strike \| Your client software does not match this server](red-team/cobalt-strike-or-your-client-software-does-not-match-this-server.md)
