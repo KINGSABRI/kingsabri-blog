@@ -57,7 +57,7 @@ Since we're testing a Windows Shellcode now, move the exe to Windows and run it.
 
 You should get similar to this
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 Now we know that the shellcode is working properly and we're going explain how to call the shellcode from Ruby not C, using Windows APIs.
 
@@ -287,7 +287,7 @@ ruby shellcode.rb
 
 to get
 
-![MessageBox](../.gitbook/assets/image%20%281%29.png)
+![MessageBox](../.gitbook/assets/image%20%2815%29.png)
 
 The same concept applied on Linux, just started with Windows since Linux is much easier.
 

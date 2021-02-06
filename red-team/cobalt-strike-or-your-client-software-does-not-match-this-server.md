@@ -4,7 +4,7 @@ If you had the chance to work with Cobalt Strike, you'll know that every new ver
 
 In most application, especially for those who love Metasploit, once a new release gets released we hurry up to update; but this is not the case with Cobalt Strike, Cobalt Strike requires the client and the server \(teamserver\) to have the same version in order to connect. If you were just like me and jumped to \`cobaltstrike/update\`, you may not be able to connect to your team server again during a running engagement which is SUCK. The Cobalt Strike client will pop up "Your client software does not match this server", just like the following message.
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image.png)
 
 Thankfully, I had a snapshot for an older version so I made a new snapshot for the newer version and I kept older image for version compatibility. However, you don't need to do so. Thanks to [ramen0x3f](https://twitter.com/ramen0x3f), she told me that I can keep both versions in different directory, as far as they both have the same license `~/.cobaltstrike.license`.
 

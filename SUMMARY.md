@@ -5,6 +5,7 @@
 ## Red Teaming <a id="red-team"></a>
 
 * [Red Teaming Terms and Definitions](red-team/red-teaming-terms-and-definitions.md)
+* [How to compile, embed and use SharpSploit](red-team/how-to-compile-embed-and-use-sharpsploit.md)
 * [Post](red-team/post.md)
 * [Cobalt Strike \| Your client software does not match this server](red-team/cobalt-strike-or-your-client-software-does-not-match-this-server.md)
 * [How to Execute Raw Shellcode Using Ruby On Windows and Linux](red-team/how-to-execute-raw-shellcode-using-ruby-on-windows-and-linux.md)
