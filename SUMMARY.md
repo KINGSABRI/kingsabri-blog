@@ -4,6 +4,7 @@
 
 ## Red Teaming <a id="red-team"></a>
 
+* [Executing C\# Assembly in Memory Using Assembly.Load\(\)](red-team/executing-c-assembly-in-memory-using-assembly.load.md)
 * [Red Teaming Terms and Definitions](red-team/red-teaming-terms-and-definitions.md)
 * [How to Register Your Own Custom DNS Server for C2 and Data exfiltration](red-team/how-to-register-your-own-custom-dns-server-for-c2-and-data-exfiltration.md)
 * [How to compile, embed and use SharpSploit](red-team/how-to-compile-embed-and-use-sharpsploit.md)
