@@ -55,6 +55,8 @@ Hi argX!
 
 {% embed url="https://www.csharpcodi.com/csharp-examples/System.Reflection.Assembly.Load\(byte\[\]\)/" %}
 
+{% embed url="https://www.csharpcodi.com/vs2/3972/hanzoInjection/src/Program.cs/" %}
+
 {% embed url="https://exord66.github.io/csharp-in-memory-assemblies" %}
 
 
