@@ -4,6 +4,8 @@
 
 ## Red Teaming <a id="red-team"></a>
 
+* [Debugging Assembly Execution using Frida-trace](red-team/debugging-assembly-execution-using-frida-trace.md)
+* [Executing C\# Assembly in Memory Using Assembly.LoadFile\(\)](red-team/executing-c-assembly-in-memory-using-assembly.loadfile.md)
 * [Executing C\# Assembly in Memory Using Assembly.Load\(\)](red-team/executing-c-assembly-in-memory-using-assembly.load.md)
 * [Red Teaming Terms and Definitions](red-team/red-teaming-terms-and-definitions.md)
 * [How to Register Your Own Custom DNS Server for C2 and Data exfiltration](red-team/how-to-register-your-own-custom-dns-server-for-c2-and-data-exfiltration.md)
