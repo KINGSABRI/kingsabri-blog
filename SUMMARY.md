@@ -51,6 +51,7 @@
   * [VMWare \| How to Bypass Sorry, this application cannot run under a Virtual Machine error](technical-stuff/other/vmware-or-how-to-bypass-sorry-this-application-cannot-run-under-a-virtual-machine-error.md)
   * [Changing VMware Workstation tmp file in Linux](technical-stuff/other/changing-vmware-workstation-tmp-file-in-linux.md)
   * [Docker \| Container CONTAINER\_NAME is not running](technical-stuff/other/docker-or-container-container_name-is-not-running.md)
+  * [How to Clone & Commit in SVN](technical-stuff/other/how-to-clone-and-commit-in-svn.md)
 
 ## General
 
