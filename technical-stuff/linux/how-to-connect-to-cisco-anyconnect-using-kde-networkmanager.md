@@ -31,8 +31,6 @@ From **Discover**, Search for _anyconnect_ package and select "NetworkManager - 
 
 7. Select your MFA mechanizm \(you should know yours\)
 
-
-
 ![Select the token mechanizm \(MFA\) ](../../.gitbook/assets/2021-04-25_21-03.png)
 
 8. Select how you would like to store the OTP. Most of the time you have a new token every time so you should not save the token and select "**Ask for this password every time**" then press **OK**.
