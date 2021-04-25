@@ -4,7 +4,7 @@
 
 ### Step 1.1 \| Installing NetworkManager OpenConnect
 
-From **Discover**, Search for _anyconnect_ package and select "NetworkManager - OpenConnect"
+From **Discover**, Search for _anyconnect_ package and select "**NetworkManager - OpenConnect**"
 
 ![Installing OpenConnect plugin](../../.gitbook/assets/2021-04-25_22-42.png)
 
