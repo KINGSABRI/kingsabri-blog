@@ -1,12 +1,18 @@
 # How to Connect to Cisco AnyConnect using KDE NetworkManager \(GUI\)
 
-## \# Step 1 \| Installing Dependencies
+## Step 1 \| Installing Dependencies
 
-### Installing NetworkManager OpenConnect
+### Step 1.1 \| Installing NetworkManager OpenConnect
 
 From **Discover**, Search for _anyconnect_ package and select "NetworkManager - OpenConnect"
 
-![](../../.gitbook/assets/2021-04-25_22-42.png)
+![Installing OpenConnect plugin](../../.gitbook/assets/2021-04-25_22-42.png)
+
+Or from commandline 
+
+```text
+apt install network-manager-openconnect openconnect
+```
 
 ## Step 2 \| Configuring KDE Network Manager
 
