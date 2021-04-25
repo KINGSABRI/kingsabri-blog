@@ -39,13 +39,21 @@ From **Discover**, Search for _anyconnect_ package and select "NetworkManager - 
 
 ![Select entering token method](../../.gitbook/assets/2021-04-25_21-05.png)
 
+### Step 2.3 \| Connect to the VPN
+
 Once all is saved, now you have a VPN connection to use.
 
 9. Select your VPN connection and the following window will show up. Press on the **connect icon** button.
 
 ![Press the connect icon](../../.gitbook/assets/2021-04-25_22-36.png)
 
-10. You will be prompt to enter your username, password and token passcode.
+{% hint style="info" %}
+At the first look, the popup window looks confusing as I was expecting to be prompted to enter my username, password, and passcode without the need to press the connect icon.
+
+It would be much better if there was an obvious button called "Connect" on it right beside the Cancel button.
+{% endhint %}
+
+10. You will be prompt to enter your username, password, and token passcode.
 
 ![Entering username, password and token pass then login](../../.gitbook/assets/2021-04-25_22-40.png)
 
@@ -55,7 +63,7 @@ You can find your configuration file for the above settings under the following 
 /etc/NetworkManager/system-connections/YOUR_CONNECTION_NAME.nmconnection
 ```
 
-In our case, it's "New vpn connection" as follows
+In our case, its "New vpn connection" as follows
 
 ```text
 /etc/NetworkManager/system-connections/New\ vpn\ connection.nmconnection
