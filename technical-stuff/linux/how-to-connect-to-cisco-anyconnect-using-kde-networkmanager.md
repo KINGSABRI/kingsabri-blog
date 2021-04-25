@@ -1,4 +1,4 @@
-# How to Connect to Cisco AnyConnect using KDE NetworkManager
+# How to Connect to Cisco AnyConnect using KDE NetworkManager \(GUI\)
 
 ## \# Step 1 \| Installing Dependencies
 

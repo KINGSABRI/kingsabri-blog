@@ -42,7 +42,7 @@
 ## Technical Stuff
 
 * [Linux](technical-stuff/linux/README.md)
-  * [How to Connect to Cisco AnyConnect using KDE NetworkManager](technical-stuff/linux/how-to-connect-to-cisco-anyconnect-using-kde-networkmanager.md)
+  * [How to Connect to Cisco AnyConnect using KDE NetworkManager \(GUI\)](technical-stuff/linux/how-to-connect-to-cisco-anyconnect-using-kde-networkmanager.md)
   * [How to Setup ZSH and Oh-my-zsh on Linux](technical-stuff/linux/how-to-setup-zsh-and-oh-my-zsh-on-linux.md)
   * [How to Beautify Linux Terminal \| Part 1](technical-stuff/linux/how-to-beautify-linux-terminal-or-part-1.md)
   * [Using mouse’s scroll-wheel in 'screen' Linux command](technical-stuff/linux/using-mouses-scroll-wheel-in-screen-linux-command.md)
