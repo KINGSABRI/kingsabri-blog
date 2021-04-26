@@ -73,7 +73,45 @@ In our case, its "New vpn connection" as follows
 /etc/NetworkManager/system-connections/New\ vpn\ connection.nmconnection
 ```
 
+And this is how the file content looks like
 
+```text
+[connection]
+id=New vpn connection
+uuid=60384096-3397-4ac8-8d9e-b6b35a292435
+type=vpn
+permissions=user:YOUR_LINUX_LOGGED_USER:;
+
+[vpn]
+cookie-flags=2
+enable_csd_trojan=yes
+form:main:password-flags=2
+form:main:secondary_password-flags=2
+gateway=VPN_SERVER_IP_ADDRESS
+gateway-flags=2
+gwcert-flags=2
+pem_passphrase_fsid=no
+prevent_invalid_cert=no
+protocol=anyconnect
+reported_os=linux-64
+stoken_source=totp
+stoken_string-flags=2
+service-type=org.freedesktop.NetworkManager.openconnect
+
+[ipv4]
+dns=DNS_SERVER1;DNS_SERVER2;DNS_SERVER3;
+dns-search=DNS_SERVER_MAIN;
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto
+
+[proxy]
+
+
+```
 
 That's it
 
