@@ -38,6 +38,7 @@
 * [How to create a ruby gem](programming/how-to-create-a-ruby-gem.md)
 * [Ruby \| How to Send an email from Microsoft Exchange](programming/untitled.md)
 * [Import module into all PowerShell Sessions](programming/import-module-into-all-powershell-sessions.md)
+* [How to create a Github Action to publish a Ruby gem to Rubygems.org](programming/how-to-create-a-github-action-to-publish-a-ruby-gem-to-rubygems.org.md)
 
 ## Technical Stuff
 
