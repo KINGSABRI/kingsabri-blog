@@ -47,6 +47,7 @@
   * [How to Setup ZSH and Oh-my-zsh on Linux](technical-stuff/linux/how-to-setup-zsh-and-oh-my-zsh-on-linux.md)
   * [How to Beautify Linux Terminal | Part 1](technical-stuff/linux/how-to-beautify-linux-terminal-or-part-1.md)
   * [Using mouse’s scroll-wheel in 'screen' Linux command](technical-stuff/linux/using-mouses-scroll-wheel-in-screen-linux-command.md)
+  * [Linux Terminal Command History Search](technical-stuff/linux/linux-terminal-command-history-search.md)
 * [Windows](technical-stuff/windows.md)
 * [MacOS](technical-stuff/macos/README.md)
   * [How to Set hostname in MacOS](technical-stuff/macos/how-to-set-hostname-in-macos.md)
