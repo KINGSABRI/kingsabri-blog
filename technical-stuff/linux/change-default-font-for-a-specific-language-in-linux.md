@@ -10,7 +10,7 @@ description: Adding different fonts for different languages in Linux
 nano ~/.config/fontconfig/fonts.conf
 ```
 
-Here is an example for adding the "Amiri" font family&#x20;
+Here is an example for adding the "**Amiri**" font family for Arabic "**ar**" keyboard layout.
 
 ```xml
 <?xml version='1.0'?>
